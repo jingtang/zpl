@@ -1,0 +1,14 @@
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\MainWindow.g.cs
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\App.g.cs
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\imgToZpl_MarkupCompile.cache
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\imgToZpl_MarkupCompile.lref
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\bin\Release\imgToZpl.exe.config
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\bin\Release\imgToZpl.exe
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\bin\Release\imgToZpl.pdb
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\MainWindow.baml
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\imgToZpl.g.resources
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\imgToZpl.Properties.Resources.resources
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\imgToZpl.csproj.GenerateResource.Cache
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\imgToZpl.csproj.CoreCompileInputs.cache
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\imgToZpl.exe
+C:\Users\tang\source\repos\imgToZpl\imgToZpl\obj\Release\imgToZpl.pdb
